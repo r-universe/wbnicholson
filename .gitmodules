@@ -9,3 +9,8 @@
 	shallow = true
 	subdir = BigVAR
 	registered = true
+[submodule "DTMCPack"]
+	path = DTMCPack
+	url = https://github.com/cran/DTMCPack
+	shallow = true
+	registered = true
